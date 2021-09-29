@@ -1,1 +1,2 @@
-Here a Matlab code is given to segment an image.
+http://www.eng.usf.edu/cvprg/mammography/database.html
+Database URL
